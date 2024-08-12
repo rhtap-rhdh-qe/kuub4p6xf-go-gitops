@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kuub4p6xf-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kuub4p6xf-go-gitops
